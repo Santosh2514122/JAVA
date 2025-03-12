@@ -20,11 +20,4 @@ public   class dataType {
  santosh yadav
 bittu
 ajay
-PS C:\Users\santo\OneDrive\Desktop\coding> 
- 
-public class dataType{
-   public static void main(String[]args){
-      //variable
-   }
-}
 */
