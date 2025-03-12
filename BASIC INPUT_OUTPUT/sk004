@@ -15,5 +15,4 @@ public class Student {
      System.out.println("Enter the mothet name of student:\n");
      String mother=scanner.nextLine();
     }
-    
 }
