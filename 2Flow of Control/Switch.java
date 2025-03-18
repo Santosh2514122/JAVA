@@ -4,7 +4,7 @@ public class Switch {
     public static void main(String[] args) {
         {
             Scanner obj=new Scanner(System.in);
-           obj.close();
+           //obj.close();
             System.out.println("Enter the number of day:");
             int n =obj.nextInt();
             switch (n)
