@@ -1,4 +1,4 @@
-//if statement 
+// if statement 
 import java.util.Scanner;
 public class If {
     public static void main(String[] args) {
