@@ -1,4 +1,4 @@
-
+//Bitwise operators 
 import java.util.*;
 public class BitwiseOperater {
   public static void main(String[]args){
