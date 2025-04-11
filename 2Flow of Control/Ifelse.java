@@ -10,10 +10,5 @@ public class Ifelse {
            System.out.println("NUMBER IS POSITIVE"); 
         else
             System.out.println("NUMBER IS NEGATIVE");
-     }
+    }
 }
-/*
- enter the  number:
-22
-NUMBER IS POSITIVE
- */
