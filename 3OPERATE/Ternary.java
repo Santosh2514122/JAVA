@@ -1,5 +1,6 @@
 import java.util.Scanner; 
-public class Ternary {
+public class Ternary 
+{
     public  static void main(String[]args)
     {
        Scanner obj=new Scanner(System.in) ;
@@ -13,6 +14,5 @@ public class Ternary {
       int c=obj.nextInt();
       max=(a>b)?(a>c ? a:b):(b>c ?b:c);
       System.out.println("print the largest value:"+max);
-     
     }
 }
