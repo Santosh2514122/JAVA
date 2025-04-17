@@ -11,6 +11,5 @@ public class BitwiseOperater {
         System.out.println("Bitwise OR"+(a|b));
         System.out.println("Bitwise XOR"+(a^b));
         System.out.println("Bitwise XOR"+(~a));
-    
   }
 }
