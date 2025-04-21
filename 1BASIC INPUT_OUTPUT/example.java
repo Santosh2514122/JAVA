@@ -22,13 +22,5 @@
         fun1();
         fun2();
         fun3();
-    } 
-}
-/*
-A
-B
-C
-Santosh Yadav
- bittu kushawaha 
- bittu kushawaha 
- */
+    }
+     }
