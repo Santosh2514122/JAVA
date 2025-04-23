@@ -18,7 +18,6 @@
         System.out.println("A");
         System.out.println("B");
         System.out.println("C");
-        //System.out.println("Sntosh yadav ");
         fun1();
         fun2();
         fun3();
