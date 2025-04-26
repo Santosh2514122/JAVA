@@ -1,7 +1,6 @@
+
 package String;
-
-import java.sql.SQLOutput;
-
+//basic string function
 public class StringMethod {
     public static void main(String[]args)
     {
@@ -19,5 +18,6 @@ public class StringMethod {
         System.out.println(a.indent('2'));
         System.out.println(b.equals(a));
         System.out.println(b.replace('b','S'));
+        System.out.println(a.compareTo(b));
     }
 }
