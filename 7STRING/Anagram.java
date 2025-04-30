@@ -1,5 +1,4 @@
 package String;
-
 import java.util.*;
 import java.lang.*;
 public class Anagram {
@@ -7,7 +6,6 @@ public class Anagram {
     {
         if (s1.length() != s2.length())
             return false;
-
         char a1[]=s1.toCharArray();
         Arrays.sort(a1);
         s1=new String(a1);
