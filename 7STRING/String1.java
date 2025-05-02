@@ -1,5 +1,4 @@
 package String;
-
 public class String1 {
     public static void main(String[]args)
     {
@@ -12,7 +11,6 @@ public class String1 {
         else {
             System.out.println("no");
         }
-        //create object for  new string
         String s3=new String ("Santosh");
         if(s1==s2)
         {
