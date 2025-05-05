@@ -12,7 +12,6 @@ public class Anagram {
         char a2[]=s2.toCharArray();
         Arrays.sort(a2);
         s2=new String(a2);
-
         return s1.equals(s2);
     }
     public static void main(String args[])
