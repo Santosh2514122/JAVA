@@ -1,9 +1,5 @@
 package String;
-
 public class StringReverse {
-
-
-
     public static void main (String[]args)
             // 1 using StrinBuffer class
     {StringBuffer obj=new StringBuffer("Santosh Yadav");
