@@ -1,5 +1,4 @@
 
-
 public class Scapesequence {
   public static void main(String[] args) {
       System.out.println("santosh\nBittu\najay\namit\nusha yadav\numesh yadav");
