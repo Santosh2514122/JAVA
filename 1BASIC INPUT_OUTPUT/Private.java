@@ -1,6 +1,5 @@
 package Constrater;
 //private construcor
-
 public class Private {
     int id;
     String name;
@@ -11,7 +10,6 @@ public class Private {
     }
     public static void main(String[] args) {
         Private   obj = new  Private();
-
     }
 }
 /*
