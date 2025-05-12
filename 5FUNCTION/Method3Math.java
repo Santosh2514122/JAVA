@@ -1,5 +1,4 @@
-//math class method 
- 
+//math class method
 public class Method3Math {
     public static void main(String[] args) {
         int a=4;
