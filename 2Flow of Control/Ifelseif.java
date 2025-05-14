@@ -3,7 +3,7 @@ import java .util.Scanner;
 public class Ifelseif {
     public static void main(String[]agrs)
     {Scanner o=new Scanner(System .in);
-        o.close();
+        
         {
           System.out.println("enter the student marks:");
           int n=o.nextInt();
