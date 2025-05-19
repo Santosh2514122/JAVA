@@ -1,8 +1,5 @@
 package Class;
-
 public class Class {
-
-
     public void eats() {
         System.out.println("Santosh Yadav");
     }
