@@ -5,7 +5,7 @@ public class Nestedifelse {
     public static void main(String[]Santosh)
     {
         Scanner o=new Scanner(System. in );//object
-         o.close();
+        
         {    System.out.println("find the greatest number among  the three number:");
             System.out.println("enter the first :");
             int a=o.nextInt();
