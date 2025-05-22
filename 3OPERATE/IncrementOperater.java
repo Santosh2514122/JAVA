@@ -6,7 +6,6 @@ public class IncrementOperater {
         System.out.println("entter the number:");
         int a =obj.nextInt();
        // System.out.println("enter the second number:");
-        //int b=obj.nextInt();
         System.out.println("a++: "+(a++));
         System.out.println("++a: "+(++a));
         System.out.println("a--: "+(a--));
