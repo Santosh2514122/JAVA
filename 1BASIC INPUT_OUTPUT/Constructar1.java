@@ -14,7 +14,6 @@ public class Constructar1 {
         name="Santosh Yadav";
     }
     public static void main(String[] args) {
-
         Constructar1 obj=new Constructar1();
         obj.disp();
     }
