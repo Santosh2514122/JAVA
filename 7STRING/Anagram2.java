@@ -16,7 +16,6 @@ public class Anagram2 {
         }
         return true;
     }
-
     public static void main(String args[])
     {
         String str1 = "abaacs";
