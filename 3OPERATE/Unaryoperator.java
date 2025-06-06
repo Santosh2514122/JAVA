@@ -8,7 +8,6 @@ public class Uoperator {
        int a=sc.nextInt();
        System.out.println("enter the second number:");
        int b=sc.nextInt();
-       sc.close();
        System.out.println("postincrement:"+(a++));
        System.out.println("preincrement:"+(++a));
        System.out.println("postincrement:"+(b--));
