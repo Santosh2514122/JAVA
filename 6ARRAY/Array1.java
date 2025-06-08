@@ -1,5 +1,4 @@
 package Array;
-
 import java.util.Scanner;
 public class Array1 {    //class name
     public static void main(String[] args) //main function
