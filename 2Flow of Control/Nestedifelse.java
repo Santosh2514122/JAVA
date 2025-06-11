@@ -3,9 +3,7 @@ import java .util.Scanner;
 //import java.util.function.*;
 public class Nestedifelse {
     public static void main(String[]Santosh)
-    {
-        Scanner o=new Scanner(System. in );//object
-        
+    { Scanner o=new Scanner(System. in );//object
         {    System.out.println("find the greatest number among  the three number:");
             System.out.println("enter the first :");
             int a=o.nextInt();
