@@ -1,6 +1,6 @@
-//nested ifelse
+
 import java .util.Scanner;
-//import java.util.function.*;
+
 public class Nestedifelse {
     public static void main(String[]Santosh)
     { Scanner o=new Scanner(System. in );//object
