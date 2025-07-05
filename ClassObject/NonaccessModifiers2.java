@@ -1,6 +1,5 @@
 package ClassObject;
 //final
-//Used to declare constants, prevent method overriding, or class inheritance.
 class finals {
      final String s1 = "santosh1";
 }
