@@ -2,8 +2,7 @@
 import java.util.Scanner;
 public class If {
     public static void main(String[] args) {
-        {
-              Scanner o=new Scanner(System.in);
+        { Scanner o=new Scanner(System.in);
           System.out.println("enter the age:");
           int a=o.nextInt();
           if(a>=18){
