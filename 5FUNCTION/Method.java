@@ -4,12 +4,9 @@ public class Method{
        {
         System .out .println("I am Santosh Yadav ");
        }
-   
-
          public void fly(){
            System .out.println(" I am  want to fly") ;
          }
-   
          public void dilip()
          {
             System .out.println(" I am  want to fly bittu") ;
