@@ -7,7 +7,7 @@ package Inhetance;//package
          System.out.println("Harinam");
      }
  }
- //parent
+     //parent
     class Multilevel1 extends Multilevel0
     {
          void method2()
@@ -27,8 +27,7 @@ package Inhetance;//package
      class Multilevel
      {
          public static void main (String args[])
-         {
-             Multilevel2 obj=new Multilevel2();//create object for nonstatic method
+         { Multilevel2 obj=new Multilevel2();//create object for nonstatic method
              obj.method3();
              obj.method2();
              obj.method1();
