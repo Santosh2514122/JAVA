@@ -1,4 +1,3 @@
-
 //default constructar
 package Basic;
 public class Constructar1 {
