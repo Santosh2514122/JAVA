@@ -1,7 +1,7 @@
 package Array;
 import java.util.Scanner;
 public class Array1 {    //class name
-    public static void main(String[] args) //main function
+    public static void main(String[] args) 
     {
         Scanner obj=new Scanner(System.in);// create  Scanner class name  object for input
         int marks[]=new int[5];
@@ -17,4 +17,5 @@ public class Array1 {    //class name
         }
     }
 }
+
 
