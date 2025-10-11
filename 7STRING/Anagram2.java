@@ -10,7 +10,6 @@ public class Anagram2 {
             count[s1.charAt(i)]++;
             count[s2.charAt(i)]--;
         }
-
         for(int i=0;i<CHAR;i++){
             if(count[i]!=0)return false;
         }
@@ -29,3 +28,4 @@ public class Anagram2 {
     }
 
 }
+
