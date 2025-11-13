@@ -11,10 +11,12 @@ public class Arithmetic1
       int mul=a*b;
       int div=a/b;
       int modul=a%b;
+     
       System.out.println("sum="+sum);
       System.out.println("mul="+mul);
       System.out.println("div="+div);
       System.out.println("modul="+modul);
     }
     }
+
 
