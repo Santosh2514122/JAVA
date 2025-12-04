@@ -20,10 +20,7 @@ class TVRemote extends TV {
     void turnOff() {
         System.out.println("TV is turned OFF.");
     }
-
-
 }
-
 // Main class to call method
 public class Class2 {
     public static void main(String[] args) {
@@ -33,4 +30,5 @@ public class Class2 {
         remote. show();
 
     }
+
 }
