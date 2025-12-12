@@ -7,7 +7,6 @@ public class StringMethod {
         String a="SANTOSH";// String literal
         String b="bittu";// String literal
         String c="  Ajay ";
-
         System.out.println(a.toLowerCase());//santosh
         System.out.println(a.toUpperCase());//SANTOSH
         System.out.println(b.concat(a));//bittuSANTOSH
@@ -22,3 +21,4 @@ public class StringMethod {
         System.out.println(a.compareTo(b));//-15
     }
 }
+
